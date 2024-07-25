@@ -3,7 +3,7 @@
 
 This is a Website where we can add/delete/edit Authors and Books written by them.
 This project uses MongoDB atlas for storing data, Express.js and Node.js for backend implementation. I have used FilePond for image preview, resizing and 
-encoding. This project is deployed on Heroku.
+encoding.
 
 # Tech Stack
 
@@ -11,17 +11,13 @@ encoding. This project is deployed on Heroku.
 
 **Back-End** - Node.js, Express.js and MongoDB
 
-## Demo
 
-[Visit the Website here](https://mybrary-project-abhi.herokuapp.com/)
-
-  
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/AbhishekPrakash5/Mybrary.git
+  git clone (https://github.com/harsh3110kumar/Mybrary.git)
 ```
 
 Go to the project directory
